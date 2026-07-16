@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: cd320cb30efed7d4388cd80450d6e2e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8971655896442404572
+    second: chuongngaivat_3_0
+  - first:
+      213: -1197238313653769577
+    second: chuongngaivat_3_1
+  - first:
+      213: -2224317752129569439
+    second: chuongngaivat_3_2
+  - first:
+      213: 4160956362220908920
+    second: chuongngaivat_3_3
+  - first:
+      213: -8004589159376328602
+    second: chuongngaivat_3_4
+  - first:
+      213: 5535020681288121481
+    second: chuongngaivat_3_5
+  - first:
+      213: -170706589809294516
+    second: chuongngaivat_3_6
+  - first:
+      213: -6928279991183889331
+    second: chuongngaivat_3_7
+  - first:
+      213: 5213549479204815972
+    second: chuongngaivat_3_8
+  - first:
+      213: -226938334413255800
+    second: chuongngaivat_3_9
+  - first:
+      213: -3133851311715156639
+    second: chuongngaivat_3_10
+  - first:
+      213: -1093301337427854646
+    second: chuongngaivat_3_11
+  - first:
+      213: -2059110864283893540
+    second: chuongngaivat_3_12
+  - first:
+      213: -1146998963777136954
+    second: chuongngaivat_3_13
+  - first:
+      213: 5916185850717521913
+    second: chuongngaivat_3_14
+  - first:
+      213: -8011935376435527027
+    second: chuongngaivat_3_15
+  - first:
+      213: -8671745385142263476
+    second: chuongngaivat_3_16
+  - first:
+      213: 3499130990167142471
+    second: chuongngaivat_3_17
+  - first:
+      213: -7488865408667551962
+    second: chuongngaivat_3_18
+  - first:
+      213: 1992480472228373206
+    second: chuongngaivat_3_19
+  - first:
+      213: 9072196915229966369
+    second: chuongngaivat_3_20
+  - first:
+      213: 7576233555915073015
+    second: chuongngaivat_3_21
+  - first:
+      213: -8650102819328272597
+    second: chuongngaivat_3_22
+  - first:
+      213: -8946287580880871591
+    second: chuongngaivat_3_23
+  - first:
+      213: 6704459691821208814
+    second: chuongngaivat_3_24
+  - first:
+      213: 174029858502588960
+    second: chuongngaivat_3_25
+  - first:
+      213: 8048644640052438730
+    second: chuongngaivat_3_26
+  - first:
+      213: -54223716740573772
+    second: chuongngaivat_3_27
+  - first:
+      213: -3468537143664199401
+    second: chuongngaivat_3_28
+  - first:
+      213: -3416315118105509607
+    second: chuongngaivat_3_29
+  - first:
+      213: -6437897330948636640
+    second: chuongngaivat_3_30
+  - first:
+      213: 9067907908665588517
+    second: chuongngaivat_3_31
+  - first:
+      213: -5031923177573219072
+    second: chuongngaivat_3_32
+  - first:
+      213: 1450371790844240976
+    second: chuongngaivat_3_33
+  - first:
+      213: 7122231581248941680
+    second: chuongngaivat_3_34
+  - first:
+      213: 7060838239120715967
+    second: chuongngaivat_3_35
+  - first:
+      213: 575809137649064501
+    second: chuongngaivat_3_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chuongngaivat_3_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 70
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421038dfe764e7380800000000000000
+      internalID: -8971655896442404572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 103
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79aed23d81e826fe0800000000000000
+      internalID: -1197238313653769577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 106
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16db8b41ac2a121e0800000000000000
+      internalID: -2224317752129569439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 100
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871341804cfaeb930800000000000000
+      internalID: 4160956362220908920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 103
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6686e66d19cf9e090800000000000000
+      internalID: -8004589159376328602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_5
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 99
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c7e9cdbf750dc40800000000000000
+      internalID: 5535020681288121481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c434991d24781adf0800000000000000
+      internalID: -170706589809294516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 99
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ca90d3e0ec9df90800000000000000
+      internalID: -6928279991183889331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 100
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4640de6f0af3a5840800000000000000
+      internalID: 5213549479204815972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 103
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b016789c0c9dcf0800000000000000
+      internalID: -226938334413255800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_10
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 99
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d735af5d25284d0800000000000000
+      internalID: -3133851311715156639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 100
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca3726e930d3d0f0800000000000000
+      internalID: -1093301337427854646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_12
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 103
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0063d14919c63e0800000000000000
+      internalID: -2059110864283893540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_13
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 99
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6925ef48a0510f0800000000000000
+      internalID: -1146998963777136954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7c5399fa38a1250800000000000000
+      internalID: 5916185850717521913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 78
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82cc246933efc090800000000000000
+      internalID: -8011935376435527027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 81
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4166ff5485c7a780800000000000000
+      internalID: -8671745385142263476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 53
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740397ba8196f8030800000000000000
+      internalID: 3499130990167142471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 78
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627f8a9a694321890800000000000000
+      internalID: -7488865408667551962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 81
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d22311de66b6ab10800000000000000
+      internalID: 1992480472228373206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 42
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1204da0270be6ed70800000000000000
+      internalID: 9072196915229966369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 84
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f566bb4740342960800000000000000
+      internalID: 7576233555915073015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 81
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b275557e059a4f780800000000000000
+      internalID: -8650102819328272597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 53
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f5b1b38d668d380800000000000000
+      internalID: -8946287580880871591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_24
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 78
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee49de561960b0d50800000000000000
+      internalID: 6704459691821208814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_25
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 81
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02abb58fb374a6200800000000000000
+      internalID: 174029858502588960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_26
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 53
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac66da518a782bf60800000000000000
+      internalID: 8048644640052438730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_27
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 78
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5d64121db5f3ff0800000000000000
+      internalID: -54223716740573772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_28
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 53
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719b5ad48d74ddfc0800000000000000
+      internalID: -3468537143664199401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_29
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 33
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9114680208fc690d0800000000000000
+      internalID: -3416315118105509607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 33
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0200f58ac7ef7a6a0800000000000000
+      internalID: -6437897330948636640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 52
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bb7f7f23ea7dd70800000000000000
+      internalID: 9067907908665588517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_32
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 52
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00581bfb7840b2ab0800000000000000
+      internalID: -5031923177573219072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_33
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 33
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054a4899571c02410800000000000000
+      internalID: 1450371790844240976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_34
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 52
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e696053ef37d260800000000000000
+      internalID: 7122231581248941680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_35
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 33
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0f843f7f22df160800000000000000
+      internalID: 7060838239120715967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuongngaivat_3_36
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 52
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a1ff32c5fadf700800000000000000
+      internalID: 575809137649064501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      chuongngaivat_3_0: -8971655896442404572
+      chuongngaivat_3_1: -1197238313653769577
+      chuongngaivat_3_10: -3133851311715156639
+      chuongngaivat_3_11: -1093301337427854646
+      chuongngaivat_3_12: -2059110864283893540
+      chuongngaivat_3_13: -1146998963777136954
+      chuongngaivat_3_14: 5916185850717521913
+      chuongngaivat_3_15: -8011935376435527027
+      chuongngaivat_3_16: -8671745385142263476
+      chuongngaivat_3_17: 3499130990167142471
+      chuongngaivat_3_18: -7488865408667551962
+      chuongngaivat_3_19: 1992480472228373206
+      chuongngaivat_3_2: -2224317752129569439
+      chuongngaivat_3_20: 9072196915229966369
+      chuongngaivat_3_21: 7576233555915073015
+      chuongngaivat_3_22: -8650102819328272597
+      chuongngaivat_3_23: -8946287580880871591
+      chuongngaivat_3_24: 6704459691821208814
+      chuongngaivat_3_25: 174029858502588960
+      chuongngaivat_3_26: 8048644640052438730
+      chuongngaivat_3_27: -54223716740573772
+      chuongngaivat_3_28: -3468537143664199401
+      chuongngaivat_3_29: -3416315118105509607
+      chuongngaivat_3_3: 4160956362220908920
+      chuongngaivat_3_30: -6437897330948636640
+      chuongngaivat_3_31: 9067907908665588517
+      chuongngaivat_3_32: -5031923177573219072
+      chuongngaivat_3_33: 1450371790844240976
+      chuongngaivat_3_34: 7122231581248941680
+      chuongngaivat_3_35: 7060838239120715967
+      chuongngaivat_3_36: 575809137649064501
+      chuongngaivat_3_4: -8004589159376328602
+      chuongngaivat_3_5: 5535020681288121481
+      chuongngaivat_3_6: -170706589809294516
+      chuongngaivat_3_7: -6928279991183889331
+      chuongngaivat_3_8: 5213549479204815972
+      chuongngaivat_3_9: -226938334413255800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 7cb4eb43fd85ca74a8578c24ec4b922b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6823161582415056991
+    second: perry_menu_0
+  - first:
+      213: -1032838348817533093
+    second: perry_menu_1
+  - first:
+      213: 4707041412828220959
+    second: perry_menu_2
+  - first:
+      213: 5058635681726275907
+    second: perry_menu_3
+  - first:
+      213: -83736080721691188
+    second: perry_menu_4
+  - first:
+      213: -511267430303477275
+    second: perry_menu_5
+  - first:
+      213: -7418618220406932051
+    second: perry_menu_6
+  - first:
+      213: -7607172812636066140
+    second: perry_menu_7
+  - first:
+      213: -6220636454821906349
+    second: perry_menu_8
+  - first:
+      213: 3126390078319858257
+    second: perry_menu_9
+  - first:
+      213: 3248903896520534277
+    second: perry_menu_10
+  - first:
+      213: -634777549954204469
+    second: perry_menu_11
+  - first:
+      213: -6805787087703583647
+    second: perry_menu_12
+  - first:
+      213: -4489735039302374322
+    second: perry_menu_13
+  - first:
+      213: -8602466800049984656
+    second: perry_menu_14
+  - first:
+      213: 6679996280601545154
+    second: perry_menu_15
+  - first:
+      213: 4034263347946368484
+    second: perry_menu_16
+  - first:
+      213: 1057334791825920379
+    second: perry_menu_17
+  - first:
+      213: -6309895022952849440
+    second: perry_menu_18
+  - first:
+      213: 6294706393150926770
+    second: perry_menu_19
+  - first:
+      213: 2157587652674679305
+    second: perry_menu_20
+  - first:
+      213: 5106012407588561557
+    second: perry_menu_21
+  - first:
+      213: -2729074033137282623
+    second: perry_menu_22
+  - first:
+      213: -482400839576268932
+    second: perry_menu_23
+  - first:
+      213: -8961696747595422142
+    second: perry_menu_24
+  - first:
+      213: -3677606057944886909
+    second: perry_menu_25
+  - first:
+      213: 8893896599688559921
+    second: perry_menu_26
+  - first:
+      213: -8108486420211991924
+    second: perry_menu_27
+  - first:
+      213: -4703844058078870888
+    second: perry_menu_28
+  - first:
+      213: 5769708234130225717
+    second: perry_menu_29
+  - first:
+      213: 1367196220081377980
+    second: perry_menu_30
+  - first:
+      213: 5234999366383282244
+    second: perry_menu_31
+  - first:
+      213: 3878467581354162259
+    second: perry_menu_32
+  - first:
+      213: -8571338443766645768
+    second: perry_menu_33
+  - first:
+      213: 5552931501008760535
+    second: perry_menu_34
+  - first:
+      213: 308651595771068479
+    second: perry_menu_35
+  - first:
+      213: 1473933103608380153
+    second: perry_menu_36
+  - first:
+      213: -7366515097706765714
+    second: perry_menu_37
+  - first:
+      213: -6631260320026342693
+    second: perry_menu_38
+  - first:
+      213: 5373996251156166244
+    second: perry_menu_39
+  - first:
+      213: -2518403434384956390
+    second: perry_menu_40
+  - first:
+      213: 5925720983037758883
+    second: perry_menu_41
+  - first:
+      213: -3103497109939190219
+    second: perry_menu_42
+  - first:
+      213: -2781312780154455120
+    second: perry_menu_43
+  - first:
+      213: 8512184548050814471
+    second: perry_menu_44
+  - first:
+      213: 3524232772564955688
+    second: perry_menu_45
+  - first:
+      213: 1830721972344398357
+    second: perry_menu_46
+  - first:
+      213: 8050535771530297874
+    second: perry_menu_47
+  - first:
+      213: 1023925452655135318
+    second: perry_menu_48
+  - first:
+      213: 5487546665908612662
+    second: perry_menu_49
+  - first:
+      213: 2986465645796629623
+    second: perry_menu_50
+  - first:
+      213: -4733067718214763407
+    second: perry_menu_51
+  - first:
+      213: -7650709649611159897
+    second: perry_menu_52
+  - first:
+      213: 12538983667305565
+    second: perry_menu_53
+  - first:
+      213: 218872406526792241
+    second: perry_menu_54
+  - first:
+      213: 5091046000824736684
+    second: perry_menu_55
+  - first:
+      213: -1118912644884515868
+    second: perry_menu_56
+  - first:
+      213: 7433345944448218895
+    second: perry_menu_57
+  - first:
+      213: -6853999792742619939
+    second: perry_menu_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: perry_menu_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2804
+        width: 432
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5011fcfe4db0be50800000000000000
+      internalID: 6823161582415056991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_1
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2808
+        width: 430
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5774547efe9aa1f0800000000000000
+      internalID: -1032838348817533093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_2
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2804
+        width: 433
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ecdaad935c25140800000000000000
+      internalID: 4707041412828220959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_3
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2808
+        width: 434
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3412969c952e33640800000000000000
+      internalID: 5058635681726275907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_4
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 2802
+        width: 432
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd33bd6a7286def0800000000000000
+      internalID: -83736080721691188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_5
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 2809
+        width: 434
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1d88f1bfc97e8f0800000000000000
+      internalID: -511267430303477275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_6
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 2803
+        width: 433
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad7768b806cb0990800000000000000
+      internalID: -7418618220406932051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2469
+        width: 432
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae61d5a1a4ed6690800000000000000
+      internalID: -7607172812636066140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2473
+        width: 430
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358be794a1cdba9a0800000000000000
+      internalID: -6220636454821906349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_9
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2469
+        width: 433
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1529f8f363b236b20800000000000000
+      internalID: 3126390078319858257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_10
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2473
+        width: 434
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5092d7561ec661d20800000000000000
+      internalID: 3248903896520534277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_11
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 2467
+        width: 432
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc36977e21d037f0800000000000000
+      internalID: -634777549954204469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_12
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 2474
+        width: 434
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164dc7cc3bcfc81a0800000000000000
+      internalID: -6805787087703583647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_13
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 2468
+        width: 433
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ce1c6f4c141b1c0800000000000000
+      internalID: -4489735039302374322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_14
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2401
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bedeee506ed9880800000000000000
+      internalID: -8602466800049984656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2148
+        width: 432
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c98f2e993d14bc50800000000000000
+      internalID: 6679996280601545154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2152
+        width: 430
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eda8b8f3259cf730800000000000000
+      internalID: 4034263347946368484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_17
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2148
+        width: 433
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71127324686cae00800000000000000
+      internalID: 1057334791825920379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_18
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 2152
+        width: 434
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efd3ea68efbe68a0800000000000000
+      internalID: -6309895022952849440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_19
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 2146
+        width: 432
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf24212d1a4b5750800000000000000
+      internalID: 6294706393150926770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_20
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 2153
+        width: 434
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9027179e98a41fd10800000000000000
+      internalID: 2157587652674679305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_21
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 2147
+        width: 433
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592ad0d5b333cd640800000000000000
+      internalID: 5106012407588561557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_22
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 2066
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c11c1940a1602ad0800000000000000
+      internalID: -2729074033137282623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_23
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1807
+        width: 432
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fc4b50efa2e49f0800000000000000
+      internalID: -482400839576268932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_24
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1811
+        width: 430
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2462dc60a48a1a380800000000000000
+      internalID: -8961696747595422142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_25
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1807
+        width: 433
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381de5c66c486fcc0800000000000000
+      internalID: -3677606057944886909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_26
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1811
+        width: 434
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dbd75e5d77d6b70800000000000000
+      internalID: 8893896599688559921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_27
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1805
+        width: 432
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a7f29bf8ed87f80800000000000000
+      internalID: -8108486420211991924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_28
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1812
+        width: 434
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892806f40c698beb0800000000000000
+      internalID: -4703844058078870888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_29
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 1806
+        width: 433
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a7af8d11f121050800000000000000
+      internalID: 5769708234130225717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_30
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1745
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2153ce7b149f210800000000000000
+      internalID: 1367196220081377980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1457
+        width: 434
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448aba0003476a840800000000000000
+      internalID: 5234999366383282244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_32
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1457
+        width: 436
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358bb7b57b513d530800000000000000
+      internalID: 3878467581354162259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_33
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1457
+        width: 436
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbb3a9291d7c0980800000000000000
+      internalID: -8571338443766645768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_34
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1457
+        width: 436
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de24bb87c9ff0d40800000000000000
+      internalID: 5552931501008760535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_35
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1457
+        width: 436
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30ca45bdfc884400800000000000000
+      internalID: 308651595771068479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_36
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 1457
+        width: 436
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa34473956747410800000000000000
+      internalID: 1473933103608380153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_37
+      rect:
+        serializedVersion: 2
+        x: 2872
+        y: 1457
+        width: 436
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62e2a05c81e4c990800000000000000
+      internalID: -7366515097706765714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_38
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1404
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdacfa37fd709f3a0800000000000000
+      internalID: -6631260320026342693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1011
+        width: 436
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466b1762e15449a40800000000000000
+      internalID: 5373996251156166244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_40
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1011
+        width: 436
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a146c546b65dc0dd0800000000000000
+      internalID: -2518403434384956390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_41
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1011
+        width: 436
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad4b0896d36c3250800000000000000
+      internalID: 5925720983037758883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_42
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1011
+        width: 436
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5368f9052d92ee4d0800000000000000
+      internalID: -3103497109939190219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_43
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1044
+        width: 393
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbb3a133cac669d0800000000000000
+      internalID: -2781312780154455120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_44
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 1028
+        width: 284
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70643293fba512670800000000000000
+      internalID: 8512184548050814471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_45
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 1029
+        width: 290
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8223682d80798e030800000000000000
+      internalID: 3524232772564955688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_46
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 518
+        width: 343
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512271c2fe7086910800000000000000
+      internalID: 1830721972344398357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_47
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 518
+        width: 417
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21283a171af39bf60800000000000000
+      internalID: 8050535771530297874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_48
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 506
+        width: 280
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a8df136c6b53e00800000000000000
+      internalID: 1023925452655135318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_49
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 518
+        width: 281
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63eacdd4e9ea72c40800000000000000
+      internalID: 5487546665908612662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_50
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 518
+        width: 281
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c9d9f8eae027920800000000000000
+      internalID: 2986465645796629623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_51
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 518
+        width: 281
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cb0f5bcf3c05eb0800000000000000
+      internalID: -4733067718214763407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_52
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 518
+        width: 281
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6064fdb1833d590800000000000000
+      internalID: -7650709649611159897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_53
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 86
+        width: 343
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c8553a32c8c2000800000000000000
+      internalID: 12538983667305565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_54
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 155
+        width: 393
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1321a2a4b47990300800000000000000
+      internalID: 218872406526792241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_55
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 170
+        width: 436
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabd45e3d5707a640800000000000000
+      internalID: 5091046000824736684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_56
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 170
+        width: 436
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e337f2b0e2d870f0800000000000000
+      internalID: -1118912644884515868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_57
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 170
+        width: 436
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f073d6fb0cc882760800000000000000
+      internalID: 7433345944448218895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: perry_menu_58
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 170
+        width: 436
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4a9f6a083b1e0a0800000000000000
+      internalID: -6853999792742619939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      perry_menu_0: 6823161582415056991
+      perry_menu_1: -1032838348817533093
+      perry_menu_10: 3248903896520534277
+      perry_menu_11: -634777549954204469
+      perry_menu_12: -6805787087703583647
+      perry_menu_13: -4489735039302374322
+      perry_menu_14: -8602466800049984656
+      perry_menu_15: 6679996280601545154
+      perry_menu_16: 4034263347946368484
+      perry_menu_17: 1057334791825920379
+      perry_menu_18: -6309895022952849440
+      perry_menu_19: 6294706393150926770
+      perry_menu_2: 4707041412828220959
+      perry_menu_20: 2157587652674679305
+      perry_menu_21: 5106012407588561557
+      perry_menu_22: -2729074033137282623
+      perry_menu_23: -482400839576268932
+      perry_menu_24: -8961696747595422142
+      perry_menu_25: -3677606057944886909
+      perry_menu_26: 8893896599688559921
+      perry_menu_27: -8108486420211991924
+      perry_menu_28: -4703844058078870888
+      perry_menu_29: 5769708234130225717
+      perry_menu_3: 5058635681726275907
+      perry_menu_30: 1367196220081377980
+      perry_menu_31: 5234999366383282244
+      perry_menu_32: 3878467581354162259
+      perry_menu_33: -8571338443766645768
+      perry_menu_34: 5552931501008760535
+      perry_menu_35: 308651595771068479
+      perry_menu_36: 1473933103608380153
+      perry_menu_37: -7366515097706765714
+      perry_menu_38: -6631260320026342693
+      perry_menu_39: 5373996251156166244
+      perry_menu_4: -83736080721691188
+      perry_menu_40: -2518403434384956390
+      perry_menu_41: 5925720983037758883
+      perry_menu_42: -3103497109939190219
+      perry_menu_43: -2781312780154455120
+      perry_menu_44: 8512184548050814471
+      perry_menu_45: 3524232772564955688
+      perry_menu_46: 1830721972344398357
+      perry_menu_47: 8050535771530297874
+      perry_menu_48: 1023925452655135318
+      perry_menu_49: 5487546665908612662
+      perry_menu_5: -511267430303477275
+      perry_menu_50: 2986465645796629623
+      perry_menu_51: -4733067718214763407
+      perry_menu_52: -7650709649611159897
+      perry_menu_53: 12538983667305565
+      perry_menu_54: 218872406526792241
+      perry_menu_55: 5091046000824736684
+      perry_menu_56: -1118912644884515868
+      perry_menu_57: 7433345944448218895
+      perry_menu_58: -6853999792742619939
+      perry_menu_6: -7418618220406932051
+      perry_menu_7: -7607172812636066140
+      perry_menu_8: -6220636454821906349
+      perry_menu_9: 3126390078319858257
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

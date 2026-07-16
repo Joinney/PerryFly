@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: e8450bbcb9f69fe49b2aa0d471917a35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6526588819946096408
+    second: explosion_fly_santa_0
+  - first:
+      213: 616851210760382248
+    second: explosion_fly_santa_1
+  - first:
+      213: -1734167667740142753
+    second: explosion_fly_santa_2
+  - first:
+      213: -6711841767248067120
+    second: explosion_fly_santa_3
+  - first:
+      213: 4684334252409980319
+    second: explosion_fly_santa_4
+  - first:
+      213: 1232833962403832028
+    second: explosion_fly_santa_5
+  - first:
+      213: 3840197469437051125
+    second: explosion_fly_santa_6
+  - first:
+      213: 7471517374504960286
+    second: explosion_fly_santa_7
+  - first:
+      213: 6115985365852233617
+    second: explosion_fly_santa_8
+  - first:
+      213: 6765124989703681695
+    second: explosion_fly_santa_9
+  - first:
+      213: 570468563625006247
+    second: explosion_fly_santa_10
+  - first:
+      213: 6261282332207309445
+    second: explosion_fly_santa_11
+  - first:
+      213: -7820686586363510257
+    second: explosion_fly_santa_12
+  - first:
+      213: 8032032415412502869
+    second: explosion_fly_santa_13
+  - first:
+      213: 6419772907381132524
+    second: explosion_fly_santa_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion_fly_santa_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 466
+        width: 158
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8b3103c06ec65a0800000000000000
+      internalID: -6526588819946096408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 466
+        width: 158
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82764a078ee7f8800800000000000000
+      internalID: 616851210760382248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_2
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 466
+        width: 158
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f539167b1bffee7e0800000000000000
+      internalID: -1734167667740142753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 466
+        width: 211
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d58c8a397fbad2a0800000000000000
+      internalID: -6711841767248067120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 444
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9587141f29120140800000000000000
+      internalID: 4684334252409980319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_5
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 252
+        width: 167
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd02e1cf4f7eb1110800000000000000
+      internalID: 1232833962403832028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_6
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 262
+        width: 192
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f04621904f1b4530800000000000000
+      internalID: 3840197469437051125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 32
+        width: 198
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e110780677920b760800000000000000
+      internalID: 7471517374504960286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_8
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 33
+        width: 157
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f1c1f494850e450800000000000000
+      internalID: 6115985365852233617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 199
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96f760c55d82ed50800000000000000
+      internalID: 6765124989703681695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_10
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 42
+        width: 157
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4556ad226bae700800000000000000
+      internalID: 570468563625006247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_11
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 42
+        width: 157
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58265a18b1b84e650800000000000000
+      internalID: 6261282332207309445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_12
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 161
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0204284cf6577390800000000000000
+      internalID: -7820686586363510257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 110
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551c5112de2877f60800000000000000
+      internalID: 8032032415412502869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion_fly_santa_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec0123227d971950800000000000000
+      internalID: 6419772907381132524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      explosion_fly_santa_0: -6526588819946096408
+      explosion_fly_santa_1: 616851210760382248
+      explosion_fly_santa_10: 570468563625006247
+      explosion_fly_santa_11: 6261282332207309445
+      explosion_fly_santa_12: -7820686586363510257
+      explosion_fly_santa_13: 8032032415412502869
+      explosion_fly_santa_14: 6419772907381132524
+      explosion_fly_santa_2: -1734167667740142753
+      explosion_fly_santa_3: -6711841767248067120
+      explosion_fly_santa_4: 4684334252409980319
+      explosion_fly_santa_5: 1232833962403832028
+      explosion_fly_santa_6: 3840197469437051125
+      explosion_fly_santa_7: 7471517374504960286
+      explosion_fly_santa_8: 6115985365852233617
+      explosion_fly_santa_9: 6765124989703681695
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
