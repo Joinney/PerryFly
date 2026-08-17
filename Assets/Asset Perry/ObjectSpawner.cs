@@ -4,20 +4,33 @@ using UnityEngine;
 public class ObjectSpawner : MonoBehaviour
 {
     [Header("Prefabs Cây và Hoa")]
-    // Kéo thả xuan1 và xuan2 (đã sửa pivot về 0) từ ô Project vào đây
     public List<GameObject> objectsToSpawn; 
 
-    [Header("Cấu Hình Lặp Lại")]
-    public Transform cameraTransform;       // Kéo Main Camera vào đây
-    public float spawnIntervalDistance = 10.24f; // Sửa lại đúng bằng chiều dài thực tế của block đất (ví dụ: 10 hoặc 10.24)
-    public float spawnAheadDistance = 15f;    // Sinh ra trước Camera để người chơi không thấy nó đột ngột hiện ra
-    public float fixedSpawnY = -3.14f;        // Độ cao cố định để đất sinh ra khớp với chân của Perry (-3.14)
+    [Header("Prefabs Coin")]
+    public GameObject coinGroupTopPrefab;    
+    public GameObject coinGroupBottomPrefab; 
+    public float coinTopSpawnY = 0f;       
+    public float coinBottomSpawnY = 1.2f;  
+
+    [Header("Prefab Cột Điện (Codien)")]
+    public GameObject codienPrefab;         // Kéo Prefab codien_0 vào đây
+    public float codienTopSpawnY = 2.5f;    // Độ cao cột điện ở TRÊN cao
+    public float codienBottomSpawnY = -1.2f;// Độ cao cột điện ở DƯỚI mặt đất
+
+    [Header("Cấu Hình Lặp Lại Map")]
+    public Transform cameraTransform;       
+    public float spawnIntervalDistance = 14.3f; 
+    public float spawnAheadDistance = 20f;    
+    public float fixedSpawnY = 0f;        
+
+    [Header("Chế Độ Luân Phiên")]
+    public bool useAlternatePattern = true; // Tích chọn để luân phiên đều đặn
 
     private float nextSpawnX;
+    private bool isNextSpawnTop = true;
 
     void Start()
     {
-        // Đồng bộ điểm xuất phát đầu tiên theo vị trí hiện tại của Camera để tránh lệch bản đồ
         if (cameraTransform != null)
         {
             nextSpawnX = cameraTransform.position.x + spawnIntervalDistance;
@@ -30,28 +43,72 @@ public class ObjectSpawner : MonoBehaviour
 
     void Update()
     {
-        if (cameraTransform == null || objectsToSpawn.Count == 0) return;
+        if (cameraTransform == null) return;
 
-        // Nếu Camera tiến tới gần điểm nextSpawnX, tiến hành tạo block mới phía trước
+        // Khi Camera tiến gần mốc tiếp theo, sinh đợt mới
         if (cameraTransform.position.x + spawnAheadDistance > nextSpawnX)
         {
-            SpawnObject();
+            SpawnMapAndElements();
         }
     }
 
-    void SpawnObject()
+    void SpawnMapAndElements()
     {
-        // Chọn ngẫu nhiên xuan1 hoặc xuan2
-        int randomIndex = Random.Range(0, objectsToSpawn.Count);
-        GameObject prefabToSpawn = objectsToSpawn[randomIndex];
+        // 1. Sinh đất / cảnh nền ngẫu nhiên
+        if (objectsToSpawn != null && objectsToSpawn.Count > 0)
+        {
+            int randomIndex = Random.Range(0, objectsToSpawn.Count);
+            GameObject prefabToSpawn = objectsToSpawn[randomIndex];
+            if (prefabToSpawn != null)
+            {
+                GameObject spawnedMap = Instantiate(prefabToSpawn, new Vector3(nextSpawnX, fixedSpawnY, 0f), Quaternion.identity);
+                Destroy(spawnedMap, 15f);
+            }
+        }
 
-        // Tạo vật thể nối tiếp chính xác trên trục X, cố định trục Y nằm thẳng tắp
-        GameObject spawnedObj = Instantiate(prefabToSpawn, new Vector3(nextSpawnX, fixedSpawnY, 0f), Quaternion.identity);
+        // 2. Sinh Coin và Cột Điện luân phiên đều đặn
+        if (coinGroupTopPrefab != null && coinGroupBottomPrefab != null)
+        {
+            GameObject selectedCoinPrefab;
+            float targetCoinY;
+            float targetCodienY;
 
-        // Tự động dọn dẹp các block cũ phía sau để tối ưu hóa bộ nhớ
-        Destroy(spawnedObj, 12f);
+            bool spawnTop = useAlternatePattern ? isNextSpawnTop : (Random.Range(0, 2) == 0);
 
-        // Tăng khoảng cách để block tiếp theo nối đuôi khít sát vào block hiện tại
+            if (spawnTop)
+            {
+                // Đợt này: Coin ở TRÊN -> Cột điện ở DƯỚI
+                selectedCoinPrefab = coinGroupTopPrefab;
+                targetCoinY = coinTopSpawnY;
+                targetCodienY = codienBottomSpawnY;
+            }
+            else
+            {
+                // Đợt này: Coin ở DƯỚI -> Cột điện ở TRÊN
+                selectedCoinPrefab = coinGroupBottomPrefab;
+                targetCoinY = coinBottomSpawnY;
+                targetCodienY = codienTopSpawnY;
+            }
+
+            // Sinh cụm Coin
+            GameObject spawnedCoins = Instantiate(selectedCoinPrefab, new Vector3(nextSpawnX, targetCoinY, 0f), Quaternion.identity);
+            Destroy(spawnedCoins, 15f);
+
+            // Sinh Cột Điện lệch nửa nhịp (giữa 2 cụm coin)
+            if (codienPrefab != null)
+            {
+                float codienX = nextSpawnX + (spawnIntervalDistance * 0.5f);
+                GameObject spawnedCodien = Instantiate(codienPrefab, new Vector3(codienX, targetCodienY, 0f), Quaternion.identity);
+                Destroy(spawnedCodien, 15f);
+            }
+
+            // Đổi trạng thái cho nhịp tiếp theo
+            if (useAlternatePattern)
+            {
+                isNextSpawnTop = !isNextSpawnTop;
+            }
+        }
+
         nextSpawnX += spawnIntervalDistance;
     }
 }

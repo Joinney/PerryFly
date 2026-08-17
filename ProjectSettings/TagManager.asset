@@ -7,6 +7,8 @@ TagManager:
   - floor
   - celling
   - Ground
+  - Coin
+  - codien
   layers:
   - Default
   - TransparentFX
@@ -55,6 +57,9 @@ TagManager:
     locked: 0
   - name: PLayer
     uniqueID: 1989225083
+    locked: 0
+  - name: codien
+    uniqueID: 2532698541
     locked: 0
   m_RenderingLayers:
   - Default
