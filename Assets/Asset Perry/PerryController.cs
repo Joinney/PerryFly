@@ -46,6 +46,7 @@ public class PerryController : MonoBehaviour
     private Collider2D col;
     private bool isGrounded = true;
     private bool isDead = false;
+    private string currentThemeName;
 
     void Start()
     {
@@ -54,6 +55,9 @@ public class PerryController : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         col = GetComponent<Collider2D>();
+
+        // Lấy tên mùa hiện tại từ PlayerPrefs
+        currentThemeName = PlayerPrefs.GetString("SelectedMapTheme", "Spring");
 
         if (jetpackEffect != null)
         {
@@ -206,19 +210,22 @@ public class PerryController : MonoBehaviour
             audioSource.PlayOneShot(hitSound);
         }
 
-        // Lưu High Score
-        int currentHighScore = PlayerPrefs.GetInt("HighScore", 0);
-        if (coinCount > currentHighScore)
+        // LƯU HIGH SCORE THEO MÙA HIỆN TẠI (vd: HighScore_Spring, HighScore_Summer)
+        string seasonScoreKey = "HighScore_" + currentThemeName;
+        int currentSeasonHighScore = PlayerPrefs.GetInt(seasonScoreKey, 0);
+
+        if (coinCount > currentSeasonHighScore)
         {
-            currentHighScore = coinCount;
-            PlayerPrefs.SetInt("HighScore", currentHighScore);
+            currentSeasonHighScore = coinCount;
+            PlayerPrefs.SetInt(seasonScoreKey, currentSeasonHighScore);
             PlayerPrefs.Save();
+            Debug.Log($">>> [PerryController] Kỷ lục mới cho {currentThemeName}: {currentSeasonHighScore}");
         }
 
-        StartCoroutine(GameOverSequenceRoutine());
+        StartCoroutine(GameOverSequenceRoutine(currentSeasonHighScore));
     }
 
-    private IEnumerator GameOverSequenceRoutine()
+    private IEnumerator GameOverSequenceRoutine(int activeHighScore)
     {
         yield return new WaitForSeconds(0.6f);
 
@@ -248,7 +255,7 @@ public class PerryController : MonoBehaviour
         }
 
         // Nhảy số điểm
-        yield return StartCoroutine(CountScoreRoutine(coinCount, PlayerPrefs.GetInt("HighScore", 0)));
+        yield return StartCoroutine(CountScoreRoutine(coinCount, activeHighScore));
 
         // BƯỚC 3: Hiện 2 nút Chơi lại và Về Menu sau khi nhảy số xong
         if (restartButton != null) restartButton.gameObject.SetActive(true);

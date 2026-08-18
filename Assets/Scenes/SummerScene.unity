@@ -336,10 +336,6 @@ MonoBehaviour:
   - themeName: Summer
     backgroundSprite: {fileID: 7291538123794582014, guid: 565105e4ff45e03449c94903036a759c, type: 3}
     backgroundMusic: {fileID: 0}
-    mapPrefabs:
-    - {fileID: 639914352356343253, guid: de72a86fb203a7b42a808c29d99adb69, type: 3}
-    - {fileID: 4795396643759787350, guid: d1c189ec4afe6c84597976329187b295, type: 3}
-    - {fileID: 4795396643759787350, guid: fbbe73cd81a1aa04b8c62e49fec1d69d, type: 3}
   backgroundRenderer: {fileID: 0}
   bgmAudioSource: {fileID: 0}
 --- !u!114 &101972073
@@ -364,6 +360,10 @@ MonoBehaviour:
   codienPrefab: {fileID: 2630616863497934749, guid: 141d5ac6ca00ceb40a63d6fefffa4c63, type: 3}
   codienTopSpawnY: 1.5
   codienBottomSpawnY: -2
+  cloudPrefab: {fileID: 4314124702358223535, guid: 85a1c1cf339b34f45861d0200994af67, type: 3}
+  cloudSpawnChance: 0.5
+  cloudMinSpawnY: 0.5
+  cloudMaxSpawnY: 2.5
   cameraTransform: {fileID: 1088690846}
   spawnIntervalDistance: 14.3
   spawnAheadDistance: 20

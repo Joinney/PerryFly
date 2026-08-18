@@ -17,6 +17,13 @@ public class ObjectSpawner : MonoBehaviour
     public float codienTopSpawnY = 2.5f;    // Độ cao cột điện ở TRÊN cao
     public float codienBottomSpawnY = -1.2f;// Độ cao cột điện ở DƯỚI mặt đất
 
+    [Header("Prefab Đám Mây Sấm Sét (Cloud Obstacle)")]
+    public GameObject cloudPrefab;          // Kéo Prefab Cloud_Obstacle vào đây
+    [Range(0f, 1f)]
+    public float cloudSpawnChance = 0.5f;   // Tỷ lệ xuất hiện (0.5 = 50%)
+    public float cloudMinSpawnY = 0.5f;     // Độ cao tối thiểu
+    public float cloudMaxSpawnY = 2.5f;     // Độ cao tối đa
+
     [Header("Cấu Hình Lặp Lại Map")]
     public Transform cameraTransform;       
     public float spawnIntervalDistance = 14.3f; 
@@ -107,6 +114,16 @@ public class ObjectSpawner : MonoBehaviour
             {
                 isNextSpawnTop = !isNextSpawnTop;
             }
+        }
+
+        // 3. Sinh Đám mây sấm sét ngẫu nhiên trên không
+        if (cloudPrefab != null && Random.value <= cloudSpawnChance)
+        {
+            float randomCloudY = Random.Range(cloudMinSpawnY, cloudMaxSpawnY);
+            // Đặt đám mây lệch khoảng 1/4 nhịp để không đè trực tiếp lên cột điện
+            float cloudX = nextSpawnX + (spawnIntervalDistance * 0.25f);
+            GameObject spawnedCloud = Instantiate(cloudPrefab, new Vector3(cloudX, randomCloudY, 0f), Quaternion.identity);
+            Destroy(spawnedCloud, 15f);
         }
 
         nextSpawnX += spawnIntervalDistance;
