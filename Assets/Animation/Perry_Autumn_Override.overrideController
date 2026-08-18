@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Perry_Autumn_Override
+  m_Controller: {fileID: 9100000, guid: 1107e4ab373131a4f8eaa36ee8d7f30d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 58dc08051554c0849a951214b9fe81ae, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 58dc08051554c0849a951214b9fe81ae, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 212969e0076148a4cb02ba733706b994, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 212969e0076148a4cb02ba733706b994, type: 2}
