@@ -222,6 +222,7 @@ GameObject:
   - component: {fileID: 217990396}
   - component: {fileID: 217990395}
   - component: {fileID: 217990397}
+  - component: {fileID: 217990398}
   m_Layer: 0
   m_Name: summer_0
   m_TagString: Untagged
@@ -457,6 +458,24 @@ PolygonCollider2D:
       - {x: -0.19999999, y: -0.37}
       - {x: -0.19, y: -0.35999998}
   m_UseDelaunayMesh: 1
+--- !u!114 &217990398
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 217990394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b3323396fe72c4eb6fd8a05ce86c64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MapSelectionItem
+  mapThemeName: Summer
+  requiredScore: 0
+  previousThemeKey: 
+  lockIcon: {fileID: 0}
+  targetSceneName: SummerScene
+  selectSound: {fileID: 0}
 --- !u!1 &430850002
 GameObject:
   m_ObjectHideFlags: 0
@@ -812,6 +831,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MapSelectionItem
   mapThemeName: Spring
+  requiredScore: 0
+  previousThemeKey: 
+  lockIcon: {fileID: 0}
   targetSceneName: SpringScene
   selectSound: {fileID: 0}
 --- !u!1 &1259425600
@@ -917,6 +939,7 @@ GameObject:
   - component: {fileID: 1305764204}
   - component: {fileID: 1305764203}
   - component: {fileID: 1305764205}
+  - component: {fileID: 1305764206}
   m_Layer: 0
   m_Name: winter_0
   m_TagString: Untagged
@@ -1157,6 +1180,24 @@ PolygonCollider2D:
       - {x: -0.21499999, y: -0.265}
       - {x: -0.205, y: -0.255}
   m_UseDelaunayMesh: 1
+--- !u!114 &1305764206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1305764202}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b3323396fe72c4eb6fd8a05ce86c64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MapSelectionItem
+  mapThemeName: Winter
+  requiredScore: 0
+  previousThemeKey: 
+  lockIcon: {fileID: 0}
+  targetSceneName: WinterScene
+  selectSound: {fileID: 0}
 --- !u!1 &1314674129
 GameObject:
   m_ObjectHideFlags: 0
@@ -1168,6 +1209,7 @@ GameObject:
   - component: {fileID: 1314674131}
   - component: {fileID: 1314674130}
   - component: {fileID: 1314674132}
+  - component: {fileID: 1314674133}
   m_Layer: 0
   m_Name: autumn_0
   m_TagString: Untagged
@@ -1400,6 +1442,24 @@ PolygonCollider2D:
       - {x: -0.19999999, y: -0.33499998}
       - {x: -0.19, y: -0.325}
   m_UseDelaunayMesh: 1
+--- !u!114 &1314674133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1314674129}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40b3323396fe72c4eb6fd8a05ce86c64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MapSelectionItem
+  mapThemeName: Autumn
+  requiredScore: 0
+  previousThemeKey: 
+  lockIcon: {fileID: 0}
+  targetSceneName: AutumnScene
+  selectSound: {fileID: 0}
 --- !u!1 &1484158381
 GameObject:
   m_ObjectHideFlags: 0
