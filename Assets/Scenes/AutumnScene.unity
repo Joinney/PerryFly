@@ -5241,6 +5241,7 @@ GameObject:
   - component: {fileID: 307417288}
   - component: {fileID: 307417287}
   - component: {fileID: 307417286}
+  - component: {fileID: 307417290}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -5333,6 +5334,24 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &307417290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 307417285}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae2c6ae2f48e307498270a14c5b7b362, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CloudObstacle
+  normalCloudSprite: {fileID: 0}
+  lightningCloudSprite: {fileID: 0}
+  normalDuration: 2
+  lightningDuration: 1.5
+  spriteRenderer: {fileID: 0}
+  damageCollider: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -6851,6 +6870,10 @@ MonoBehaviour:
   codienPrefab: {fileID: 2630616863497934749, guid: 141d5ac6ca00ceb40a63d6fefffa4c63, type: 3}
   codienTopSpawnY: 1.5
   codienBottomSpawnY: -2
+  cloudPrefab: {fileID: 4314124702358223535, guid: 85a1c1cf339b34f45861d0200994af67, type: 3}
+  cloudSpawnChance: 0.5
+  cloudMinSpawnY: 0.5
+  cloudMaxSpawnY: 2.5
   cameraTransform: {fileID: 519420032}
   spawnIntervalDistance: 14.3
   spawnAheadDistance: 20
